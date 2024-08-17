@@ -11,16 +11,16 @@
 ## 实现效果
 
 ### 主场景 (MainScene):
-<imag src = "https://bu.dusays.com/2024/08/17/66c04e21e2121.png" width="430px" height="300px"></img>
+<img src = "https://bu.dusays.com/2024/08/17/66c04e21e2121.png" width="430px" height="300px"></img>
 
 ### 选择关卡 (ChooseScene)
 
-<imag src = "https://bu.dusays.com/2024/08/17/66c04e227cfc3.png" width="430px" height="300px"></img>
+<img src = "https://bu.dusays.com/2024/08/17/66c04e227cfc3.png" width="430px" height="300px"></img>
 
 ### 翻金币 (CoinTurn)
 
-<imag src = "https://bu.dusays.com/2024/08/17/66c04e224d882.png" width="430px" height="300px"></img>
+<img src = "https://bu.dusays.com/2024/08/17/66c04e224d882.png" width="430px" height="300px"></img>
 
 ### 胜利 (Win)
 
-<imag src = "https://bu.dusays.com/2024/08/17/66c04e23df32e.png" width="430px" height="300px"></img>
+<img src = "https://bu.dusays.com/2024/08/17/66c04e23df32e.png" width="430px" height="300px"></img>
